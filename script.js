@@ -15,6 +15,9 @@ botones.forEach(boton => {
         else if (valor === "=") {
             display.value = eval(display.value);
         } 
+        else if (valor === "-"){
+            display.value += "-";
+        }
         else {
             display.value += valor;
         }
