@@ -9,7 +9,7 @@ body{
 
 #calculadora {
     max-width: 500px;
-    aspect-ratio: 16 / 9;
+    aspect-ratio: 9 / 16;
     background-color: black;
     padding: 20px;
     border-radius: 15px;
