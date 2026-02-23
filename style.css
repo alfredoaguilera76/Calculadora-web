@@ -1,4 +1,4 @@
-body{
+body {
     margin: 0;
     height: 100vh;
 
@@ -9,7 +9,7 @@ body{
 
 #calculadora {
     max-width: 500px;
-    aspect-ratio: 9 / 16;
+    /*aspect-ratio: 9 / 16;*/
     background-color: black;
     padding: 20px;
     border-radius: 15px;
