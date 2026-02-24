@@ -8,22 +8,21 @@ body {
 }
 
 #calculadora {
-    max-width: 500px;
-    /*aspect-ratio: 9 / 16;*/
+    width: 250px;
     background-color: black;
     padding: 20px;
     border-radius: 15px;
 }
 
 #pantalla {
-    height: 100px;
+    height: 50px;
     width: 100%;
     background-color: black;
     color: white;
     font-size: 2rem;
     text-align: right;
     padding: 10px;
-    padding-top: 100px;
+    padding-top: 50px;
     border: none;
     outline: none;
 }
