@@ -8,21 +8,21 @@ body {
 }
 
 #calculadora {
-    width: 250px;
+    max-width: 500px;
+    width: 100%;
     background-color: black;
     padding: 20px;
     border-radius: 15px;
 }
 
 #pantalla {
-    height: 50px;
+    height: 100px;
     width: 100%;
     background-color: black;
     color: white;
-    font-size: 2rem;
+    font-size: 3rem;
     text-align: right;
-    padding: 10px;
-    padding-top: 50px;
+    padding-top: 100px;
     border: none;
     outline: none;
 }
@@ -40,7 +40,7 @@ body {
     border-radius: 50%;
     width: 100%;
     height: 100%;
-    font-size: 20px;
+    font-size: 2rem;
 }
 
 .btn-operador {
@@ -50,7 +50,7 @@ body {
     border-radius: 50%;
     width: 100%;
     height: 100%;
-    font-size: 20px;
+    font-size: 2rem;
 }
 
 .btn-numero {
@@ -60,7 +60,7 @@ body {
     border-radius: 50%;
     width: 100%;
     height: 100%;
-    font-size: 20px;
+    font-size: 2rem;
 }
 
 #btnIgual {
