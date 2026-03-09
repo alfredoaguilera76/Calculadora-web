@@ -8,8 +8,7 @@ body {
 }
 
 #calculadora {
-    max-width: 500px;
-    width: 100%;
+    width: 25%;
     background-color: black;
     padding: 20px;
     border-radius: 15px;
